@@ -1,0 +1,33 @@
+C:\Users\Joshua\Anaconda3\python.exe C:/Users/Joshua/Documents/algorithms/hw5/assign5.py
+Activities
+Start:  0  - Finish:  3  - Profit:  2 
+
+Start:  2  - Finish:  1  - Profit:  0 
+
+Start:  3  - Finish:  6  - Profit:  2 
+
+Start:  2  - Finish:  6  - Profit:  3 
+
+
+Sorted Activities
+Start:  2  - Finish:  1  - Profit:  0 
+
+Start:  0  - Finish:  3  - Profit:  2 
+
+Start:  3  - Finish:  6  - Profit:  2 
+
+Start:  2  - Finish:  6  - Profit:  3 
+
+Finish Times
+[0, 1, 3, 6]
+
+H
+[1, 0, 2, 1]
+Maximum profit activities: 
+Start:  0  - Finish:  3  - Profit:  2 
+
+Start:  2  - Finish:  6  - Profit:  3 
+
+[0, 0, 0, 0]
+
+Process finished with exit code 0
